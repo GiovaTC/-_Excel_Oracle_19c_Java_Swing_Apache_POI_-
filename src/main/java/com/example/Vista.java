@@ -41,4 +41,4 @@ public class Vista extends JFrame {
             JOptionPane.showMessageDialog(this, "Primero genera el excel");
         }
     }
-}   
+}
