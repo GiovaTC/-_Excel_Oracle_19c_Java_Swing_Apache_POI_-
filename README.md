@@ -1,7 +1,9 @@
 # -_Excel_Oracle_19c_Java_Swing_Apache_POI_- :.
 📊 Excel → Oracle 19c (Java + Swing + Apache POI):
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0940d57b-814a-488c-822e-be80d0e711c7" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0940d57b-814a-488c-822e-be80d0e711c7" />    
+
+<img width="2551" height="1076" alt="image" src="https://github.com/user-attachments/assets/25029ab7-c537-4566-8946-842951b8769e" />    
 
 ```
 Solución completa y funcional con:
